@@ -1,0 +1,17 @@
+C:\Users\luana.eoalima\source\repos\SlnEscola\PrjEscola\bin\Debug\net6.0-windows\PrjEscola.exe
+C:\Users\luana.eoalima\source\repos\SlnEscola\PrjEscola\bin\Debug\net6.0-windows\PrjEscola.deps.json
+C:\Users\luana.eoalima\source\repos\SlnEscola\PrjEscola\bin\Debug\net6.0-windows\PrjEscola.runtimeconfig.json
+C:\Users\luana.eoalima\source\repos\SlnEscola\PrjEscola\bin\Debug\net6.0-windows\PrjEscola.dll
+C:\Users\luana.eoalima\source\repos\SlnEscola\PrjEscola\bin\Debug\net6.0-windows\PrjEscola.pdb
+C:\Users\luana.eoalima\source\repos\SlnEscola\PrjEscola\obj\Debug\net6.0-windows\PrjEscola.csproj.AssemblyReference.cache
+C:\Users\luana.eoalima\source\repos\SlnEscola\PrjEscola\obj\Debug\net6.0-windows\PrjEscola.Form1.resources
+C:\Users\luana.eoalima\source\repos\SlnEscola\PrjEscola\obj\Debug\net6.0-windows\PrjEscola.csproj.GenerateResource.cache
+C:\Users\luana.eoalima\source\repos\SlnEscola\PrjEscola\obj\Debug\net6.0-windows\PrjEscola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luana.eoalima\source\repos\SlnEscola\PrjEscola\obj\Debug\net6.0-windows\PrjEscola.AssemblyInfoInputs.cache
+C:\Users\luana.eoalima\source\repos\SlnEscola\PrjEscola\obj\Debug\net6.0-windows\PrjEscola.AssemblyInfo.cs
+C:\Users\luana.eoalima\source\repos\SlnEscola\PrjEscola\obj\Debug\net6.0-windows\PrjEscola.csproj.CoreCompileInputs.cache
+C:\Users\luana.eoalima\source\repos\SlnEscola\PrjEscola\obj\Debug\net6.0-windows\PrjEscola.dll
+C:\Users\luana.eoalima\source\repos\SlnEscola\PrjEscola\obj\Debug\net6.0-windows\refint\PrjEscola.dll
+C:\Users\luana.eoalima\source\repos\SlnEscola\PrjEscola\obj\Debug\net6.0-windows\PrjEscola.pdb
+C:\Users\luana.eoalima\source\repos\SlnEscola\PrjEscola\obj\Debug\net6.0-windows\PrjEscola.genruntimeconfig.cache
+C:\Users\luana.eoalima\source\repos\SlnEscola\PrjEscola\obj\Debug\net6.0-windows\ref\PrjEscola.dll
